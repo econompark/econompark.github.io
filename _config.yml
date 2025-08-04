@@ -23,10 +23,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "website.jpg"
-  name             : "Minchul Park"
+  name             : # "Minchul Park"
   pronouns         : # example: "she/her"  
   bio              : "PhD cadidate in Economics"
-  location         : "South Korea"
+  location         : # "South Korea"
   employer         : "Korea University"
   uri              : # URL
   email            : "minchul1352@korea.ac.kr" 
