@@ -1,3 +1,9 @@
+---
+title: "About"
+permalink: /
+layout: single
+author_profile: true
+---
 Welcome!
 
 I'm Minchul Park, a Ph.D. candidate in Economics at Korea University.
