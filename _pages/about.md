@@ -1,9 +1,11 @@
 ---
-title: "Welcome!"
+title: " "
 permalink: /
 layout: single
 author_profile: true
 ---
+Welcome!
+
 I'm Minchul Park, a Ph.D. candidate in Economics at Korea University.
 
 My research interests include econometrics and data science, with a focus on treatment effect analysis, bootstrap methods, and the application of machine learning to causal inference.
