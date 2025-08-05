@@ -5,4 +5,4 @@ Beyond theoretical research, I am committed to developing statistical software t
 
 Please find here my CV.
 
-Email. minchul1352@korea.ac.kr
+Email: minchul1352@korea.ac.kr
