@@ -18,7 +18,7 @@ main:
     url: /teaching/    
     
   - title: "Code"
-  -  url: https://github.com/econompark
+    url: https://github.com/econompark
         
   # - title: "Blog Posts"
   #  url: /year-archive/
