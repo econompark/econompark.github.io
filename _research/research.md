@@ -2,6 +2,8 @@
 layout: single
 title: ""
 permalink: /research/
+header: false
+show_date: false
 ---
 
 ## Job Market Paper
