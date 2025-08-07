@@ -2,6 +2,8 @@
 layout: single
 title: ""
 permalink: /teaching/
+header: false
+show_date: false
 ---
 
 ## Instructor
