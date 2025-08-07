@@ -1,8 +1,7 @@
 ---
-layout: null
-collection: research
+layout: page
+title: ""
 permalink: /research/
-header: false
 ---
 
 ## Job Market Paper
