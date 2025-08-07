@@ -5,7 +5,6 @@ permalink: /teaching/
 header: false
 show_date: false
 ---
-
 ## Instructor
   - Econometrics I (Undergraduate, Korea University), Winter 2023 and Summer 2024
   - Mathematics for Economists (Undergraduate, Korea University), Summer 2023
