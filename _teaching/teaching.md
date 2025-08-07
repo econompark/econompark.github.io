@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: null
 collection: teaching
 permalink: /teaching/
 header: false
