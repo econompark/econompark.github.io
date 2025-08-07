@@ -1,6 +1,8 @@
 ---
+layout: single
 collection: research
 permalink: /research/
+header: false
 ---
 
 ## Job Market Paper
