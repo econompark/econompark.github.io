@@ -5,7 +5,6 @@ permalink: /research/
 header: false
 show_date: false
 ---
-
 ## Job Market Paper
 
 Coming soon.
