@@ -1,6 +1,8 @@
 ---
+layout: single
 collection: teaching
 permalink: /teaching/
+header: false
 ---
 
 ## Instructor
