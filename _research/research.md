@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: null
 collection: research
 permalink: /research/
 header: false
