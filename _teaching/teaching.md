@@ -1,5 +1,4 @@
 ---
-title: " "
 collection: teaching
 permalink: /teaching/
 ---
