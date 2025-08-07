@@ -1,8 +1,6 @@
 ---
-title: " "
 collection: research
 permalink: /research/
-date: " "
 ---
 
 ## Publications
