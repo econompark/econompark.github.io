@@ -1,8 +1,7 @@
 ---
-layout: null
-collection: teaching
+layout: page
+title: ""
 permalink: /teaching/
-header: false
 ---
 
 ## Instructor
