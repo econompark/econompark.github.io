@@ -2,6 +2,10 @@
 title: "Teaching Experience"
 collection: teaching
 permalink: /teaching/
+date: 2025-08-07
+header:
+  everlay: false
+  show_title: false
 ---
 
 ## Instructor
