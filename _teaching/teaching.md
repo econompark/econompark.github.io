@@ -1,5 +1,5 @@
 ---
-title: "Teaching Experience"
+title: " "
 collection: teaching
 permalink: /teaching/
 date: 2025-08-07
