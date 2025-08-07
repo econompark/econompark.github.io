@@ -2,7 +2,6 @@
 title: " "
 collection: teaching
 permalink: /teaching/
-date: " "
 ---
 
 ## Instructor
