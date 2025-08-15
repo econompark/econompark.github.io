@@ -12,7 +12,7 @@ Coming soon.
 ## Work in Progress
 
   - "A simple specification test for parametric Roy models" (with Chirok Han)
-  - "A fast bootstrap inference on imputation-based treatment effect estimators" (with Sang Soo Park)
+  - "Bootstrap inference on imputation-based treatment effect estimation with high-dimensional fixed effects" (with Sang Soo Park)
   - "Machine learning-based standard errors for imputation-based treatment effect estimators"
 
 ## Publications
