@@ -8,10 +8,10 @@ Welcome!
 
 I'm Minchul Park, a Ph.D. candidate in Economics at Korea University.
 
-My research interests include econometrics and data science, with a focus on treatment effect analysis, bootstrap methods, and the application of machine learning.
+My research interests include econometrics, applied economics, and data science, with a focus on treatment effect analysis and the application of machine learning.
 
 In addition to theoretical work, I am dedicated to developing statistical software that enables applied researchers to implement my methods with ease.
 
-Please find my CV [here](/files/CV_20250825.pdf).
+Please find my CV [here](/files/CV_20250909.pdf).
 
 Email: [minchul1352@korea.ac.kr](mailto:minchul1352@korea.ac.kr)
