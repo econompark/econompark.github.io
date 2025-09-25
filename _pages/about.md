@@ -8,7 +8,7 @@ Welcome!
 
 I'm Minchul Park, a Ph.D. candidate in Economics at Korea University.
 
-My research interests include econometrics, applied economics, and data science, with a focus on causal inference.
+My research interests include econometrics, applied economics, and data science, with a focus on treatment effect analysis.
 
 In addition to theoretical work, I am dedicated to developing statistical software that enables applied researchers to implement my methods with ease.
 
