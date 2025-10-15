@@ -7,7 +7,7 @@ show_date: false
 ---
 ## Job Market Paper
 
-# Difference-in-differences with survival-time-based treatment timing
+### Difference-in-differences with survival-time-based treatment timing
 
 Coming soon.
 
