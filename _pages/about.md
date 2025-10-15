@@ -12,6 +12,6 @@ My research interests include econometrics, applied economics, and data science,
 
 In addition to theoretical work, I am dedicated to developing statistical software that enables applied researchers to implement my methods with ease.
 
-Please find my CV [here](/files/CV_20250925.pdf).
+Please find my CV [here](/files/CV_20251015.pdf).
 
 Email: [minchul1352@korea.ac.kr](mailto:minchul1352@korea.ac.kr)
