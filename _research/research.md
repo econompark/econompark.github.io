@@ -7,12 +7,15 @@ show_date: false
 ---
 ## Job Market Paper
 
+# Difference-in-differences with survival-time-based treatment timing
+
 Coming soon.
 
-## Work in Progress
-
+## Working Papers
   - "A simple specification test for parametric Roy models" (with Chirok Han)
   - "Bootstrap inference on imputation-based treatment effect estimation with high-dimensional fixed effects" (with Sang Soo Park)
+
+## Work in Progress
   - "Machine learning-based standard errors for imputation-based treatment effect estimators"
 
 ## Publications
