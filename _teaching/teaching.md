@@ -6,6 +6,7 @@ header: false
 show_date: false
 ---
 ## Instructor
+  - (in English) Principles of Economics I (Undergraduate, Korea University), Fall 2025
   - Econometrics I (Undergraduate, Korea University), Winter 2023 and Summer 2024
   - Mathematics for Economists (Undergraduate, Korea University), Summer 2023
   - R Programming (2-day course, Korea University), Sep. 2023
