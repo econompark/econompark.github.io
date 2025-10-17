@@ -12,7 +12,7 @@ show_date: false
 Coming soon.
 
 ## Working Papers
-  - "A simple specification test for parametric Roy models" (with Chirok Han)
+  - "A parametric specification test for Roy models" (with Chirok Han)
   - "Bootstrap inference on imputation-based treatment effect estimation with high-dimensional fixed effects" (with Sang Soo Park)
 
 ## Work in Progress
