@@ -7,7 +7,7 @@ show_date: false
 ---
 ## Job Market Paper
 
-### Difference-in-differences for heterogeneous treatment effects under staggered and self-selected adoption
+### Difference-in-differences for heterogeneous treatment effects in staggered and self-selected adoption
 
 Coming soon.
 
