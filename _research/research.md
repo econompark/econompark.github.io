@@ -16,7 +16,7 @@ This paper proposes a new difference-in-differences estimator to estimate hetero
   - "Do news articles contain information useful for forecasting copper prices?", *Journal of The Korean Data Analysis Society*, 2025, 27(4), 1063--1080 (single-authored)
 
 ## Working Papers
-  - "A parametric specification test for Roy models" (with Chirok Han)
+  - "A parametric specification test for Roy models" (with Chirok Han, draft available)
   - "Bootstrap inference on imputation-based treatment effect estimation with high-dimensional fixed effects" (with Sang Soo Park, draft forthcoming)
 
 ## Work in Progress
