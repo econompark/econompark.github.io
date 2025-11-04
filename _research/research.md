@@ -17,6 +17,8 @@ This paper proposes a new difference-in-differences estimator to estimate hetero
 
 ## Working Papers
   - "A parametric specification test for Roy models" (with Chirok Han, draft available)
+
+## Work in Progress
   - "Bootstrap inference on imputation-based treatment effect estimation with high-dimensional fixed effects" (with Sang Soo Park, draft forthcoming)
 
 ## Work in Progress
