@@ -20,6 +20,4 @@ This paper proposes a new difference-in-differences estimator to estimate hetero
 
 ## Work in Progress
   - "Bootstrap inference on imputation-based treatment effect estimation with high-dimensional fixed effects" (with Sang Soo Park, draft forthcoming)
-
-## Work in Progress
   - "Machine learning-based standard errors for imputation-based treatment effect estimators"
